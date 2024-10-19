@@ -1,0 +1,4 @@
+https://ar.islamway.net/lessons/scholar/582
+
+load to the very bottom first to load the whole page
+then start scrapping the whole data
